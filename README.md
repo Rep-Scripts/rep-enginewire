@@ -1,7 +1,7 @@
 
 # REP-ENGINEWIRE
 
-## 📚 Installation
+## Installation
 ```bash
     git clone https://github.com/Rep-Scripts/rep-enginewire.git
     cd rep-enginewire/web
@@ -9,7 +9,7 @@
     pnpm build
 ```
 
-## 📚 Example
+## Example
 ```lua
     local success = exports["rep-enginewire"]:Minigame()
 ```
@@ -19,7 +19,7 @@
 
 - [Q4D](https://github.com/Q4D1952K) (discord: q4d)
 
-Original Script: https://github.com/NikaKondr/hotwire
+- Original Script: https://github.com/NikaKondr/hotwire
 ## Support :star2:
 
 Join our [**Discord**](https://discord.gg/VxGs8ceG5W) for support!
