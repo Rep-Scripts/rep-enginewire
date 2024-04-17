@@ -17,7 +17,7 @@
 ## Credits
 - [Nikа Kondr](https://ragemp.pro/threads/frontend-developer-s-fokusom-na-react-typescript-mobx.7552/) (discord: nkondr)
 
-- [Q4D] (https://github.com/Q4D1952K) (discord: q4d)
+- [Q4D](https://github.com/Q4D1952K) (discord: q4d)
 
 Original Script: https://github.com/NikaKondr/hotwire
 ## Support :star2:
