@@ -2,7 +2,7 @@ local p = nil
 
 local function MiniGame()
     p = promise.new()
-    SendNuiMessage({
+    SendNUIMessage({
         action = 'startGame',
     })
     SetNuiFocus(true, true)
@@ -20,5 +20,8 @@ end,false)
 RegisterNUICallback('finish', function(data)
     p:resolve(data.result)
     p = nil
+    SendNUIMessage({
+        action = 'closeUi',
+    })
     SetNuiFocus(false, false)
 end)
